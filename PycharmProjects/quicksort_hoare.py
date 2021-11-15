@@ -62,14 +62,14 @@ def partition_hoare(A, low, high):
 
 if __name__ == "__main__":
 
-    sys.setrecursionlimit(1000000000)
+    sys.setrecursionlimit(10000000)
     n = int(input())
     for i in range(n):
         count_swap = 0
         count_compare = 0
         a, b, c, d = 0, 0, 0 ,0
 
-        A = list(map(int, input().split(" ")))
+        A = list(map(int, sys.stdin.readline().strip().split(" ")))
         A = A[1:]
         B = A[:]
 
