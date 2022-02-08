@@ -9,8 +9,8 @@ def pop(a):
     if len(a) == 0:
         return -1
     else:
-        c = a[len(a) - 1]
-        del a[len(a)-1]
+        c = a[-1]
+        del a[-1]
         return c
 
 def size(a):
@@ -26,7 +26,7 @@ def top(a):
     if len(a) == 0:
         return -1
     else:
-        return a[len(a)-1]
+        return a[-1]
 
 if __name__ == '__main__':
     n = int(input())
