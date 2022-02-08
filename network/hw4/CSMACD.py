@@ -1,0 +1,62 @@
+import time
+import random
+
+statistics = []
+limit = 0
+k = 0
+success = False
+abort = False
+
+def CSMACD():
+
+    global limit, k, data
+    collisionChance = 0 # collision이 일어날 확률
+    global success, abort
+    global statistics
+
+    Tb = 2 #Back-off time
+    Channelbusy = 0
+
+    while Channelbusy == 0:
+        print("The channel is busy ... ")  #1-Persistent Methods
+        Channelbusy = random.randint(0,1)
+        time.sleep(1)
+
+    print("The channel is idle, Station can transmit ... ")
+    time.sleep(1)
+
+    if collisionChance < random.randint(0, 9): #collision이 발생할 확률
+        statistics.append("Failed")
+        print("A conflict has occurred ... ")
+    else:
+        print("Acknowledgement was received. The attemp was successful.")
+        success = True
+        statistics.append("Successful")
+    time.sleep(1)
+
+
+    if success == False:
+        print("Send a jamming signal ...")
+        time.sleep(1)
+        k += 1
+        if k < limit:
+            Tbtime = Tb * 0.1 * chooseR(k)  # wait Tb time (maxtimum propagation time * R)
+            print("Waiting the TB timer to expire and to start a new attemp ... : ",Tbtime)
+            time.sleep(1 + Tbtime)
+
+        else:
+            print("The whole process was aborted. We need to try another time.")
+            abort = True
+        time.sleep(1)
+
+def chooseR(k):
+    r = random.randint(0, 2 ** k - 1)
+    return r
+
+def output():
+    print("\n")
+    for i in range(0, k + 1):
+        print ("Attemp ",i + 1, " : ",statistics[i])
+
+if __name__ == "__main__":
+    simulate()
