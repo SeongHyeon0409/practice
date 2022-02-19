@@ -11,12 +11,10 @@ for i in range(t):
 
     while True:
         if doc[0] < max(doc):
-            a = doc.pop(0)
-            doc.append(a)
-            b = mask.pop(0)
-            mask.append(b)
+            doc.append(doc.pop(0))
+            mask.append(mask.pop(0))
         else:
-            a = doc.pop(0)
+            doc.pop(0)
             answer += 1
             b = mask.pop(0)
             if b == 1:
