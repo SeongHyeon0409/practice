@@ -12,7 +12,7 @@ if n > 2:
     dp[2] = max(dp[1], g[1]+g[2] ,g[0]+g[2])
 
 for i in range(3, n):
-    dp[i] = max(dp[i-2] + g[i], dp[i-1] , dp[i-3]+g[i-1]+g[i])
+    dp[i] = max(dp[i-2] + g[i], dp[i-1], dp[i-3]+g[i-1]+g[i])
 
 print(dp)
 print(dp[-1])
