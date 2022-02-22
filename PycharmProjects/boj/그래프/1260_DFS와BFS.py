@@ -24,6 +24,7 @@ def dfs(edges, start):
             print(node, end = ' ')
             visited.append(node)
             non_visit.extend(edges[node])
+    print()
 
 def bfs(edges, start):
 
@@ -42,6 +43,5 @@ def bfs(edges, start):
 
 
 dfs(edges, v)
-print()
 bfs(edges, v)
 
