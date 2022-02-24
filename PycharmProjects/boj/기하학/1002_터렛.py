@@ -13,7 +13,7 @@ for i in range(t):
             print(-1)
         else:
             print(0)
-            
+
     else:
         if d == rs or d == rm:
             print(1)
