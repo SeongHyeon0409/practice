@@ -12,7 +12,7 @@ while A < B:
         answer = -1
         break
 
-    if B < A:
-        answer = -1
+if B < A:
+    answer = -1
 
 print(answer)
