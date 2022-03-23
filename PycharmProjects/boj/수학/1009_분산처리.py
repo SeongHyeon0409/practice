@@ -7,8 +7,8 @@ eight = [8, 4, 2, 6]
 for i in range(t):
     a, b = map(int, input().split())
     a = a % 10
-    if a == 1:
-        print(1)
+    if a == 1 or a == 5 or a == 6:
+        print(a)
     elif a == 2:
         print(two[(b%4)-1])
     elif a == 3:
@@ -18,10 +18,6 @@ for i in range(t):
             print(6)
         else:
             print(4)
-    elif a == 5:
-        print(5)
-    elif a == 6:
-        print(6)
     elif a == 7:
         print(seven[(b % 4) - 1])
     elif a == 8:
