@@ -11,7 +11,6 @@ for i in range(1, n+1):
     if l[i] != 0:
         if l[i] == l[i-1] or l[i] == l[i+1]:
             temp = 0
-            break
     else:
         a = 0
 
@@ -40,8 +39,7 @@ if temp == 1 and a == 0:
                 else:
                     l[i] = 2
 
-
-if temp == 0 and a != 0:
+if temp == 0:
     print(-1)
 else:
     print(*l[1:-1])
