@@ -1,3 +1,6 @@
+#2022.04.04
+#presented by SeongHyeon0409
+
 def w(a, b, c):
     if a <= 0 or b <= 0 or c <= 0:
         return 1
