@@ -21,9 +21,7 @@ for i in range(t):
             ans.append(j)
             temp -= j
 
-    if temp == 0:
-        print(*reversed(ans))
-    else:
-        print(-1)
+    print(*reversed(ans))
+
 
 

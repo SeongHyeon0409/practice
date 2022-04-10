@@ -7,6 +7,5 @@ for i in range(n):
         if nums[j] < nums[i]: #자기보다 작으면
             dp[i] = max(dp[i], dp[j]+1)
 
-
 print(max(dp))
 

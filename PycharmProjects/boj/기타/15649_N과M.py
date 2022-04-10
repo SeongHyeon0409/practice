@@ -10,7 +10,7 @@ def dfs():
         return
 
     for i in range(1, n+1):
-        if i in s:
+        if i in s :
             continue
         s.append(i)
         dfs()
