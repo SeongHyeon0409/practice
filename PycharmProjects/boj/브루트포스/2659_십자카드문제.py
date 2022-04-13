@@ -4,16 +4,25 @@
 n = int(''.join(list(input().split())))
 crossnums = set()
 
-for i in range(1111, 10000):
+def get_clock(n):
+    cross = list(str(n))
+    nums = []
+    for j in range(4):
+        cross.append(cross.pop(0))
+        nums.append(int(''.join(cross)))
+        nums.sort()
+
+    return(nums[0])
+
+clock_num = get_clock(n)
+ans = 1
+
+for i in range(1111, clock_num):
     nums = []
     cross = list(str(i))
     if '0' not in cross:
-        for j in range(4):
-            cross.append(cross.pop(0))
-            nums.append(int(''.join(cross)))
-        nums.sort()
-        crossnums.add(nums[0])
-    if i == n:
-        n = nums[0]
+        if i == get_clock(i):
+            ans += 1
 
-print(sorted(crossnums).index(n) + 1)
+print(ans)
+#print(sorted(crossnums).index(n) + 1)
