@@ -2,7 +2,6 @@
 # Presented by SeongHyeon0409
 
 n = int(''.join(list(input().split())))
-crossnums = set()
 
 def get_clock(n):
     cross = list(str(n))
