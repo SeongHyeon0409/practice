@@ -23,7 +23,6 @@ for i in range(1, n + 1):
 
 def dfs(edges, start, visited):
     visited[start] = True
-
     for i in edges[start]:
         if not visited[i]:
             dfs(edges, i, visited)
