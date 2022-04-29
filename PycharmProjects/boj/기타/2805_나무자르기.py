@@ -1,4 +1,4 @@
-# 2020.04.14
+# 2020.04.16
 # Presented by SeongHyeon0409
 # 이분탐색
 import sys
