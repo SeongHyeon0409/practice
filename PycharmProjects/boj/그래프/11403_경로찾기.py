@@ -19,16 +19,14 @@ ans = [[0] * n for _ in range(n)]
 
 for i in range(n):
     que = deque()
-    for j in edges[i]:
-        que.append(j)
+    que += edges[i]
     while que:
         np = que.pop()
         if ans[i][np] == 1:
             continue
         else:
             ans[i][np] = 1
-            for j in edges[np]:
-                que.append(j)
+            que += edges[np]
 
 for i in ans:
     print(*i)
