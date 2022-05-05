@@ -13,7 +13,6 @@ que.append([0, 0])
 while que:
     x, y = que[0][0], que[0][1]
     que.popleft()
-
     for i in range(4):
         nx ,ny = x + dx[i], y + dy[i]
         if 0 <= nx < m and 0 <= ny < n and map[ny][nx] == 1:
