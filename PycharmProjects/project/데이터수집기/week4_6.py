@@ -4,10 +4,20 @@
 import requests, openpyxl
 from bs4 import BeautifulSoup
 
-wb = openpyxl.Workbook()
-sheet = wb.active
-sheet.append(["제목", "언론사"])
-
+# 파일 불러오기를 시도합니다.
+try:
+    # 워크북 불러오기, 현재 활성화된 시트 선택하기
+    wb = openpyxl.load_workbook("navernews.xlsx")
+    sheet = wb.active
+    print("불러오기 완료")
+# 파일 불러오기에 실패하면, 새로운 워크북(엑셀파일)을 만듭니다.
+except:
+    # 워크북 새로 만들기, 현재 활성화된 시트 선택하기
+    # 헤더 행 추가하기
+    wb = openpyxl.Workbook()
+    sheet = wb.active
+    sheet.append(["검색어", "제목", "언론사"])
+    print("새로운 파일을 만들었습니다.")
 
 keyword = input("검색어를 입력해주세요: ")
 
@@ -28,6 +38,6 @@ for n in range(1, 100, 10):
         source = source.replace("언론사 선정", "")
         print(title, source)
 
-        sheet.append([title, source])
+        sheet.append([keyword, title, source])
 
 wb.save("navernews.xlsx")
