@@ -1,2 +1,3 @@
-a = set([0])
-print(max(a))
+from datetime import datetime
+
+print(datetime.today().strftime("%Y-%m-%d"))
