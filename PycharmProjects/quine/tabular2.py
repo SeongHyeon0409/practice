@@ -65,10 +65,10 @@ minterms3 = set(['0001', '0011', '0100', '0110', '1011', '0000', '1000', '1010',
 minterms4 = set(['1000','0111'])
 
 minterms5 = set(['0000', '0100', '1000', '1010', '1011', '1100','1101', '1111'])
-print 'PI(s):', find_prime_implicants(minterms)
+print ('PI(s):', find_prime_implicants(minterms))
 
-print 'PI2(s):', find_prime_implicants(minterms2)
+print ('PI2(s):', find_prime_implicants(minterms2))
 
-print 'PI3(s):', find_prime_implicants(minterms3)
+print ('PI3(s):', find_prime_implicants(minterms3))
 
 print (find_prime_implicants(minterms5))
