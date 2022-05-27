@@ -220,7 +220,7 @@ def find_minimum_cost(Chart, unchecked):
             for j in essential_prime:
                 if j == i:
                     s= s+binary_to_letter(unchecked[i])+' , '
-        print s[:(len(s)-3)]
+        print (s[:(len(s)-3)])
 
     #modifiy the chart to exclude the covered terms
     for i in range(len(essential_prime)):
@@ -310,9 +310,9 @@ def binary_to_letter(s):
 #main function
 def main():
     #get the num of variables (bits) as input
-    n_var = int(raw_input("Enter the number of variables(bits): "))
+    n_var = int(input("Enter the number of variables(bits): "))
     #get the minterms as input
-    minterms = raw_input("Enter the minterms (ex. 0 1 2 5 9 10) : ")
+    minterms = input("Enter the minterms (ex. 0 1 2 5 9 10) : ")
     a = minterms.split()
     #put the numbers in list in int form
     a = map(int, a)
@@ -329,7 +329,7 @@ def main():
                 a[i] = '0'+ a[i]
         #if incorrect input
         elif len(a[i]) > n_var:
-            print '\nError : Choose the correct number of variables(bits)\n'
+            print ('\nError : Choose the correct number of variables(bits)\n')
             return
         #count the num of 1
         index = a[i].count('1')
@@ -348,7 +348,7 @@ def main():
     s = "\nPrime Implicants :\n"
     for i in unchecked:
         s= s + binary_to_letter(i) + " , "
-    print s[:(len(s)-3)]
+    print (s[:(len(s)-3)])
 
     #make the prime implicant chart
     Chart = [[0 for x in range(len(a))] for x in range(len(unchecked))]
@@ -365,7 +365,7 @@ def main():
     primes = remove_redundant(primes)
 
 
-    print "\n--  Answers --\n"
+    print ("\n--  Answers --\n")
 
     for prime in primes:
         s=''
@@ -373,10 +373,10 @@ def main():
             for j in prime:
                 if j == i:
                     s= s+binary_to_letter(unchecked[i])+' + '
-        print s[:(len(s)-3)]
+        print (s[:(len(s)-3)])
 
 
 
 if __name__ == "__main__":
     main()
-    A = raw_input("\nPress Enter to Quit")
+    A = input("\nPress Enter to Quit")
