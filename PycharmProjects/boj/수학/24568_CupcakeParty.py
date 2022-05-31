@@ -1,4 +1,4 @@
-# 2020.05.26
+# 2020.05.31
 # Presented by SeongHyeon0409
 
 a = int(input())
