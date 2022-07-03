@@ -24,7 +24,7 @@ menu.add_cascade(label="File", menu=menu_file)
 # Edit 메뉴 (빈 값)
 menu.add_cascade(label="Edit")
 
-# Laguage 메뉴 추가 (radio 버튼을 통해서 택1)
+# Language 메뉴 추가 (radio 버튼을 통해서 택1)
 menu_lang = Menu(menu, tearoff=0)
 menu_lang.add_radiobutton(label="Python")
 menu_lang.add_radiobutton(label="Java")
