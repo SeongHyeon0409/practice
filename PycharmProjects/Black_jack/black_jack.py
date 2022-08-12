@@ -12,4 +12,5 @@ class Black_jack:
                         ["K", 7], ["K", 8], ["K", 9], ["K", 10], ["K", "J"], ["K", "Q"], ["K", "K"]]
 
     def start(self):
+        pass
 
