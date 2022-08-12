@@ -1,6 +1,5 @@
 # 2020.04.26
 # Presented by SeongHyeon0409
-# 이분탐색
 
 n, r, c = map(int, input().split())
 num = 0
