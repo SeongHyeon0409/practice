@@ -1,10 +1,5 @@
-kor = ["사과", "바나나", "오렌지"]
-eng = ["apple", "banana", "orange"]
+a = [1, 2, 3, 4, 5]
 
-print(list(zip(kor, eng)))
-
-mixed = [('사과', 'apple'), ('바나나', 'banana'), ('오렌지', 'orange')]
-print(list(zip(*mixed)))
-
-kor2, eng2 = zip(*mixed)
-print(kor2, eng2)
+for i in a:
+    print(i)
+    a.remove(i)
