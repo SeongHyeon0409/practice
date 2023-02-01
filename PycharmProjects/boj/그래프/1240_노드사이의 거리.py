@@ -18,22 +18,17 @@ for i in range(n-1):
 
 for i in range(m):
     s, e = map(int, input().split())
-    dis = float('INF')
     visited = list()
     q = deque()
     q.append((s, 0))
     while q:
         s, d = q.popleft()
         if s == e:
-            dis = min(dis, d)
+            print(d)
             break
         for i in edges[s]:
             if i not in visited and distance[s][i]:
                 q.append((i, d + distance[s][i]))
                 visited.append(i)
-
-
-    print(dis)
-
 
 
