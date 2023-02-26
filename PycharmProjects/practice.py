@@ -1,5 +1,3 @@
-a = [1, 2, 3, 4, 5]
+a = ["O.b", ".ab", "X.b"]
 
-for i in a:
-    print(i)
-    a.remove(i)
+print(a[2][2])
