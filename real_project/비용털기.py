@@ -23,12 +23,14 @@ for _ in range(t):
     com = list(map(int, input().split())) # 1 ~ 200
     com.sort()
 
-    ans1, ans2 = 0, 0
+    start = 0
+    end = n-1
 
-    for i in range(len(com)):
-        ans2 = binary(p - com[i], com[i+1:])
-        if ans2:
-            ans1 = com[i]
+    while True:
+        if com[start] + com[end] == p:
+            print(com[start], com[end])
             break
-
-    print(ans1, ans2)
+        elif com[start] + com[end] < p:
+            start += 1
+        else:
+            end -= 1
