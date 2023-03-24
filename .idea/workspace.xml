@@ -6,6 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="e5f5befd-5654-45c6-8b71-f0a19fe2ee1a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/건물.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-03-17/건물.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/비용털기.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-03-17/비용털기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/사다리타기.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-03-10/사다리타기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/숲가꾸기.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-03-10/숲가꾸기.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/숲가꾸기2.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-03-10/숲가꾸기2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,24 +44,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "C:/practice/PycharmProjects/boj"
+    "last_opened_file_path": "C:/practice/real_project/input.txt"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\practice\real_project\2023-03-24" />
+      <recent name="C:\practice\real_project" />
       <recent name="C:\practice\PycharmProjects\boj" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj" />
-      <recent name="C:\practice\real_project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\practice\real_project" />
+      <recent name="C:\practice\real_project\2023-03-17" />
+      <recent name="C:\practice\real_project\2023-03-10" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\수학" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\그리디" />
-      <recent name="C:\practice\PycharmProjects\boj\그리디" />
-      <recent name="C:\djprojects\mysite\templates\pybo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.15686_치킨 배달">
-    <configuration name="건물" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.막대기분할">
+    <configuration name="공장" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,17 +71,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-03-24" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/건물.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-03-24/공장.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\practice\real_project\input.txt" />
       <method v="2" />
     </configuration>
     <configuration name="13458_시험감독" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -116,6 +124,27 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="막대기분할" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-03-24" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-03-24/막대기분할.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\practice\real_project\input.txt" />
       <method v="2" />
     </configuration>
     <configuration name="3109_빵집" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -181,41 +210,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="temp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/temp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.막대기분할" />
+      <item itemvalue="Python.공장" />
       <item itemvalue="Python.15686_치킨 배달" />
       <item itemvalue="Python.13458_시험감독" />
-      <item itemvalue="Python.temp" />
-      <item itemvalue="Python.건물" />
       <item itemvalue="Python.3109_빵집" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.막대기분할" />
+        <item itemvalue="Python.공장" />
         <item itemvalue="Python.15686_치킨 배달" />
         <item itemvalue="Python.3109_빵집" />
         <item itemvalue="Python.13458_시험감독" />
-        <item itemvalue="Python.temp" />
-        <item itemvalue="Python.건물" />
       </list>
     </recent_temporary>
   </component>
