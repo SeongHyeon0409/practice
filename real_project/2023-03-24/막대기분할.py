@@ -3,20 +3,19 @@ t = int(input())
 for _ in range(t):
 
     l = input()
-
     stack = []
     ans = 0
-    for i in range(len(l)):
-        if l[i] == '(' and l[i+1] != ')':
-            stack.append(0)
-        elif l[i] == ')' and l[i-1] != '(':
-            ans += stack.pop() + 1
-
-        elif l[i] == '(' and l[i+1] == ')':
-
-            for j in range(len(stack)):
-                stack[j] += 1
-
+    i = 0
+    while i != len(l):
+        if l[i] == '(' and l[i+1] == ')':
+            ans += len(stack)
+            i += 1
+        elif l[i] == '(':
+            stack.append(1)
+        elif l[i] == ')':
+            stack.pop()
+            ans += 1
+        i += 1
     print(ans)
             # 닫히기 전 모든 열린거에 레이저 개수 추가.
             # 닫히면 스택 마지막 막대기 제거.
