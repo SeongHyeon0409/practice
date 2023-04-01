@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e5f5befd-5654-45c6-8b71-f0a19fe2ee1a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/13458_시험감독.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/수학/13458_시험감독.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/3109_빵집.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/그리디/3109_빵집.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -240,6 +238,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
