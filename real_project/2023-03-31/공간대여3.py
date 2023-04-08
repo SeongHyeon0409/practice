@@ -9,11 +9,8 @@ def get_divisor(n):
     for i in range(1, sqrt_n + 1):
         if n % i == 0:
             divisors.append(i)
-
-    # sqrt(n)보다 큰 약수 구하기
-    for i in range(len(divisors) - 1, -1, -1):
-        if divisors[i] != sqrt_n:
-            divisors.append(n // divisors[i])
+            if i != sqrt_n:
+                divisors.append(n // i)
 
     return divisors
 
@@ -44,7 +41,6 @@ for _ in range(t):
     #최소요금
 
     # 겹치는 범위를 담을 리스트
-    overlap = []
     possible = []
 
     for f in flist:
@@ -52,16 +48,15 @@ for _ in range(t):
         for T, F in info:
             minv = T // (F // f)
             maxv = T // (F // f - 1) if F // f > 1 else float('inf')
+            if minv == 0 and maxv == 0:
+                break
             trange.append([minv, maxv])
-            trange.append([minv, maxv])
-
         # 범위들을 하나씩 비교하여 겹치는 부분을 overlap 리스트에 추가
-        ranges = find_overlap(trange)
-        if ranges is not None:
-            possible.append([f, ranges])
+        if trange:
+            ranges = find_overlap(trange)
+            if ranges is not None:
+                possible.append([f, ranges])
 
-    print(possible)
-    
     minv, maxv = float('inf'), 0
     if possible:
         for f, t in possible:
