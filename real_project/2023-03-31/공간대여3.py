@@ -33,16 +33,12 @@ for _ in range(t):
     # 최대 공약수
     a = list(map(lambda x:x[1], info))
     gcd = math.gcd(*a)
+
     # f의 후보 : gcd의 모든 약수
-
     flist = get_divisor(gcd)
-    tlist = []
-
-    #최소요금
 
     # 겹치는 범위를 담을 리스트
     possible = []
-
     for f in flist:
         trange = []
         for T, F in info:
