@@ -1,14 +1,22 @@
-def find_overlap(ranges):
-    # ranges: [(start1, end1), (start2, end2), ...]
-    start, end = ranges[0]
-    for r_start, r_end in ranges[1:]:
-        start = max(start, r_start)
-        end = min(end, r_end)
-    return (start, end) if start < end else None
+m = 2
+def compare(a, b):
+    i = 0
+    j = 0
+    c = m
+    while i <= len(a):
+        if a[i] == b[j]:
+            i += 1
+            j += 1
+        elif a[i] == '.':
+            for k in range(0, m+1):
+                if a[i] == b[j+k]:
+                    i += 1
+                    j += 1
+                    break
+                
+        else:
+            break
 
-ranges = [[2, 4], [3, 6], [4, 5], [3, 4], [4, 5]]
-overlap = find_overlap(ranges)
-if overlap:
-    print(f"{overlap[0]} < f <= {overlap[1]}")
-else:
-    print("겹치는 부분이 없습니다.")
+    return(b)
+
+print(compare('badword', 'bad.ord'))

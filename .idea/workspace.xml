@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e5f5befd-5654-45c6-8b71-f0a19fe2ee1a" name="Changes" comment="">
+    <list default="true" id="ce004226-f0ff-4f31-b682-2a4c682f9104" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/real_project/2023-03-31/공간대여3.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-03-31/공간대여3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/input.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/temp.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/temp.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -39,16 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/real_project/input.txt" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "last_opened_file_path": "C:/practice/real_project/input.txt"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\practice\real_project\2023-04-14" />
+      <recent name="C:\practice\real_project" />
       <recent name="C:\Users\seonghyeon\practice\real_project\2023-03-31" />
       <recent name="C:\practice\PycharmProjects\boj" />
       <recent name="C:\practice\real_project\2023-03-24" />
-      <recent name="C:\practice\real_project" />
-      <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\practice\PycharmProjects\boj\구현" />
@@ -58,28 +61,7 @@
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\수학" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.공간대여3">
-    <configuration name="공간대여2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-03-31" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-03-31/공간대여2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\seonghyeon\practice\real_project\input.txt" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.temp">
     <configuration name="공간대여" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,6 +81,27 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="C:\Users\seonghyeon\practice\real_project\input.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="필터링" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-04-14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-04-14/필터링.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\practice\real_project\input.txt" />
       <method v="2" />
     </configuration>
     <configuration name="공간대여3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -122,6 +125,27 @@
       <option name="INPUT_FILE" value="C:\Users\seonghyeon\practice\real_project\input.txt" />
       <method v="2" />
     </configuration>
+    <configuration name="재택근무" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-04-14" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-04-14/재택근무.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\practice\real_project\input.txt" />
+      <method v="2" />
+    </configuration>
     <configuration name="공간대여" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,27 +243,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/비용털기.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bj" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/Black_jack" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/Black_jack/bj.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,26 +273,26 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.bj" />
-      <item itemvalue="Python.공간대여2" />
+      <item itemvalue="Python.필터링" />
+      <item itemvalue="Python.재택근무" />
       <item itemvalue="Python.공간대여" />
       <item itemvalue="Python.공간대여3" />
       <item itemvalue="Python.temp" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.공간대여3" />
         <item itemvalue="Python.temp" />
+        <item itemvalue="Python.필터링" />
+        <item itemvalue="Python.재택근무" />
+        <item itemvalue="Python.공간대여3" />
         <item itemvalue="Python.공간대여" />
-        <item itemvalue="Python.공간대여2" />
-        <item itemvalue="Python.bj" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e5f5befd-5654-45c6-8b71-f0a19fe2ee1a" name="Changes" comment="" />
+      <changelist id="ce004226-f0ff-4f31-b682-2a4c682f9104" name="Changes" comment="" />
       <created>1678530618443</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -307,7 +310,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
