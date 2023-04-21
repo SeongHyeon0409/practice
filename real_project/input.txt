@@ -1,15 +1,7 @@
-3
-5 27
-4 1000
-6 1000
-21 3000
-16 2000
-26 3000
-3 2
-3 40000
-5 60000
-8 90000
-3 60
-10 680
-15 700
-60 900
+2
+2 2
+slang badword
+badword ab.cd bad.ord .word sl..
+bad.word
+3 3
+abcde cdefg efgij .. ab. cdefgh .gi. .z.
