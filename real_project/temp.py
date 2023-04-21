@@ -1,14 +1,15 @@
-def find_overlap(ranges):
-    # ranges: [(start1, end1), (start2, end2), ...]
-    start, end = ranges[0]
-    for r_start, r_end in ranges[1:]:
-        start = max(start, r_start)
-        end = min(end, r_end)
-    return (start, end) if start < end else None
+def get_divisor(n):
+    divisors = []
+    sqrt_n = int(n ** 0.5)
 
-ranges = [[2, 4], [3, 6], [4, 5], [3, 4], [4, 5]]
-overlap = find_overlap(ranges)
-if overlap:
-    print(f"{overlap[0]} < f <= {overlap[1]}")
-else:
-    print("겹치는 부분이 없습니다.")
+    # 1부터 sqrt(n)까지 약수 구하기
+    for i in range(1, sqrt_n + 1):
+        if n % i == 0:
+            divisors.append(i)
+            if i != sqrt_n:
+                divisors.append(n // i)
+
+    return divisors
+
+
+print(get_divisor(100))
