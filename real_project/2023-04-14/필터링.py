@@ -22,5 +22,3 @@ for _ in range(t):
     print(' '.join(words))
 
 
-
-

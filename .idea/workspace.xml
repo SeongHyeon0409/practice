@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce004226-f0ff-4f31-b682-2a4c682f9104" name="Changes" comment="">
+    <list default="true" id="4b9c7654-7443-450a-9452-210f2b65fb30" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/2023-04-14/필터링.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-04-14/필터링.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -59,7 +61,7 @@
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\수학" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.temp">
+  <component name="RunManager" selected="Python.로그검사">
     <configuration name="공간대여" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,6 +81,27 @@
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="true" />
       <option name="INPUT_FILE" value="C:\Users\seonghyeon\practice\real_project\input.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration name="로그검사" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/로그검사.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:\practice\real_project\input.txt" />
       <method v="2" />
     </configuration>
     <configuration name="공간대여3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -271,12 +294,14 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.로그검사" />
       <item itemvalue="Python.공간대여" />
       <item itemvalue="Python.공간대여3" />
       <item itemvalue="Python.temp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.로그검사" />
         <item itemvalue="Python.temp" />
         <item itemvalue="Python.공간대여3" />
         <item itemvalue="Python.공간대여" />

@@ -1,7 +1,7 @@
-2
-2 2
-slang badword
-badword ab.cd bad.ord .word sl.. bad.word
-3 3
-abcde cdefg efgij
-.. ab. cdefgh .gi. .z.
+1
+5
+line_name : db product_name : dbtest error_level : info message : test
+line_name : dd3b product_name : dbtest error_level : iEEnfo message : test
+line_name : test product_name : I DONT CARE error_level : error message : x
+line_name : ThisIsJustForTest product_name : TestAndTestAndTestAndTest error_level : test message : IAlwaysTestingAndIWillTestForever
+line_name : oberervability product_name : LogViewer error_level : error
