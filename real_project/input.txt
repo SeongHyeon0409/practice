@@ -1,7 +1,7 @@
 2
 2 2
 slang badword
-badword ab.cd bad.ord .word sl..
-bad.word
+badword ab.cd bad.ord .word sl.. bad.word
 3 3
-abcde cdefg efgij .. ab. cdefgh .gi. .z.
+abcde cdefg efgij
+.. ab. cdefgh .gi. .z.
