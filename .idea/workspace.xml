@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e5f5befd-5654-45c6-8b71-f0a19fe2ee1a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/real_project/2023-04-14/필터링.py" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/2023-04-14/필터링.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/real_project/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/real_project/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,11 +43,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seonghyeon\practice\real_project" />
       <recent name="C:\Users\seonghyeon\practice\real_project\2023-03-31" />
       <recent name="C:\practice\PycharmProjects\boj" />
       <recent name="C:\practice\real_project\2023-03-24" />
       <recent name="C:\practice\real_project" />
-      <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\practice\PycharmProjects\boj\구현" />
@@ -58,7 +58,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.필터링">
-    <configuration name="공간대여" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="보물찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +66,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-03-31" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-04-21" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-03-31/공간대여.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-04-21/보물찾기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -290,19 +290,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.공간대여" />
       <item itemvalue="Python.공간대여3" />
       <item itemvalue="Python.temp" />
       <item itemvalue="Python.temp2" />
       <item itemvalue="Python.필터링" />
+      <item itemvalue="Python.보물찾기" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.필터링" />
+        <item itemvalue="Python.보물찾기" />
         <item itemvalue="Python.temp2" />
         <item itemvalue="Python.temp" />
         <item itemvalue="Python.공간대여3" />
-        <item itemvalue="Python.공간대여" />
       </list>
     </recent_temporary>
   </component>
