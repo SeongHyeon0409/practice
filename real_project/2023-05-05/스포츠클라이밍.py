@@ -1,4 +1,7 @@
 from collections import deque
+import sys
+
+input = sys.stdin.readline
 
 def printm(m):
     for i in m:
@@ -11,7 +14,7 @@ dy = [0, 0, -1, 1]
 for _ in range(t):
     n = int(input())
     maps = [list(input().split()) for _ in range(n)]
-    distance = [[0] * n for _ in range(n)]
+    distance = [[0] * n for _ in range(n)
     for i in range(n):
         for j in range(n):
             if maps[i][j] == 'H':
