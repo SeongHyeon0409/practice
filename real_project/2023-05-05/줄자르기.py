@@ -18,10 +18,10 @@ for _ in range(t):
                 dp[i] += dp[i // 2] * dp[i // 2]
                 #print("dpi:", i, dp[i // 2] ** 2)
             if (m % 2 == 0 and i % 2 == 0):
-                if i - m != i - q and m != q and i - m != q and m != i -q:
+                if (i - m != i - q and m != q) and (i - m != q and m != i -q):
                     dp[i] += + dp[i-q] * dp[q]
             elif (m % 2 != 0 and i % 2 != 0):
-                if i - m != i - q and m != q and i - m != q and m != i -q:
+                if (i - m != i - q and m != q) and (i - m != q and m != i -q):
                     dp[i] += + dp[i-q] * dp[q]
 
         dp[i] %= 10007
