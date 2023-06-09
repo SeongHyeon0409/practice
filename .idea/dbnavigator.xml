@@ -29,6 +29,11 @@
         <condition column="name" operator="=" value="" active="true" />
       </filter>
     </filter-actions>
+    <filter-actions connection-id="3af56068-5f52-4f25-80c6-4eab0707536a" dataset="main.pybo_answer_voter" active-filter-id="32163125-eed0-48cd-b6a0-4bd9c6d2c638">
+      <filter id="32163125-eed0-48cd-b6a0-4bd9c6d2c638" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
+        <condition column="id" operator="=" value="" active="true" />
+      </filter>
+    </filter-actions>
     <filter-actions connection-id="3af56068-5f52-4f25-80c6-4eab0707536a" dataset="main.pybo_question" active-filter-id="5fb99251-a460-4dbc-a203-e9e7f042d825">
       <filter id="5fb99251-a460-4dbc-a203-e9e7f042d825" name="Filter 1" temporary="false" custom-name="false" type="basic" join-type="AND">
         <condition column="id" operator="=" value="" active="true" />
