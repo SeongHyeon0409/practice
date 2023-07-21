@@ -12,37 +12,38 @@ def c(num):
 
 for _ in range(T):
     n = int(input())
-
     b = n
-    s = 1
-    cnt = 0
+    s = []
+    temp = 1
     while True:
         if n != 2 and n % 2 == 0:
-            s *= 2
+            s.append(2)
             n //= 2
-            cnt += 1
         elif n != 3 and n % 3 == 0:
-            s *= 3
+            s.append(3)
             n //= 3
-            cnt += 1
         else:
             break
 
-    print(s ,cnt)
     ans = [ i for i in range(n)]
 
+    while s:
+        temp = s.pop()
+        tempa = [0 for i in range(len(ans))]
 
-    tempa = [0] * len(ans)
+        for i in range(len(ans)):
+            tempa[i] = ans[i] * temp
 
-    for i in range(len(ans)):
-        tempa[i] = ans[i] * s
+        ans = tempa[:]
 
-    ans = tempa[:]
-    print(ans)
-
-    for i in range(s-1):
-        tempa = list(map(lambda  x: a(x, cnt), tempa))
-        ans.extend(tempa)
+        if temp == 3:
+            for num in tempa:
+                ans.append(num + 1)
+            for num in tempa:
+                ans.append(num + 2)
+        else:
+            for num in tempa:
+                ans.append(num + 1)
 
     for i in ans:
         print(i+1, end=' ')
