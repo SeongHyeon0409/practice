@@ -3,15 +3,15 @@ input = sys.stdin.readline
 
 T = int(input())
 
-def a(num, b):
-    return num + b
-
+def a(num):
+    return num + 1
 def c(num):
     return num + 2
 
 
 for _ in range(T):
     n = int(input())
+
     b = n
     s = []
     temp = 1
@@ -24,12 +24,11 @@ for _ in range(T):
             n //= 3
         else:
             break
-
+    s.reverse()
     ans = [ i for i in range(n)]
 
-    while s:
-        temp = s.pop()
-        tempa = [0 for i in range(len(ans))]
+    for temp in s:
+        tempa = [0] * len(ans)
 
         for i in range(len(ans)):
             tempa[i] = ans[i] * temp
@@ -37,13 +36,10 @@ for _ in range(T):
         ans = tempa[:]
 
         if temp == 3:
-            for num in tempa:
-                ans.append(num + 1)
-            for num in tempa:
-                ans.append(num + 2)
+            ans.extend(list(map(a, tempa)))
+            ans.extend(list(map(c, tempa)))
         else:
-            for num in tempa:
-                ans.append(num + 1)
+            ans.extend(list(map(a, tempa)))
 
     for i in ans:
         print(i+1, end=' ')
