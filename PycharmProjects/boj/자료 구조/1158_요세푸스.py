@@ -17,4 +17,18 @@ a, b = map(int, input().split(" "))
 
 yosepus(a,b)
 
+n ,k = map(int, input().split())
+nums = [i for i in range(1, n+1)]
+na = []
+c = 0
+while nums:
 
+    c = c + k - 1
+
+    if c >= len(nums):
+        c = c % len(nums)
+
+    na.append(str(nums.pop(c)))
+
+
+print("<",", ".join(na),">", sep='')

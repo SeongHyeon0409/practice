@@ -16,9 +16,28 @@ for i in range(n):
             else:
                 stack.pop()
 
-
-        #print(stack)
     if stack:
         print("NO")
     else:
         print("YES")
+
+t = int(input())
+
+for _ in range(t):
+    stack = []
+    answer = "YES"
+    words = input()
+    for word in words:
+        if word == '(':
+            stack.append(1)
+        else:
+            if not(stack):
+                answer = "NO"
+                break
+            else:
+                stack.pop()
+
+    if stack:
+        answer = "NO"
+
+    print(answer)
