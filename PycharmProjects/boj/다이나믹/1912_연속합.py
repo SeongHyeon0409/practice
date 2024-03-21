@@ -14,3 +14,13 @@ for i in range(1, n):
 
 print(max(dp))
 
+# ----------------------------------------
+
+# n = int(input())
+# nums = list(map(int, input().split()))
+# dp = nums[:]
+#
+# for i in range(1, n):
+#     dp[i] = max(dp[i], dp[i-1] + dp[i])
+#
+# print(max(dp))
