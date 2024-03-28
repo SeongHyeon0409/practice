@@ -9,13 +9,8 @@
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/10844_쉬운계단수.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/10844_쉬운계단수.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/11052_카드_구매하기.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/11052_카드_구매하기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/11053_가장증가하는부분수열.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/11053_가장증가하는부분수열.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/1309_동물원.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/1309_동물원.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/1912_연속합.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/1912_연속합.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/브루트포스/1149_RGB거리.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/브루트포스/1149_RGB거리.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/자료 구조/11656_접미사배열.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/자료 구조/11656_접미사배열.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/2156_포도주시식.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/2156_포도주시식.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/9465_스티커.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/9465_스티커.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +78,7 @@
     "Python.2133_타일 채우기.executor": "Run",
     "Python.21736_헌내기는 친구가 필요해.executor": "Run",
     "Python.2805. 농작물 수확하기.executor": "Run",
+    "Python.3085_사탕 게임.executor": "Run",
     "Python.6588_골드바흐의 추측.executor": "Run",
     "Python.9613_GCD합.executor": "Run",
     "Python.n-queen.executor": "Run",
@@ -90,6 +86,7 @@
     "Python.pratice.executor": "Run",
     "Python.temp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/seonghyeon/practice/PycharmProjects/boj/수학",
     "settings.editor.selected.configurable": "copyright"
   }
@@ -110,7 +107,7 @@
       <recent name="C:\practice\real_project\2023-03-17" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.17404_RGB거리 2">
+  <component name="RunManager" selected="Python.3085_사탕 게임">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
@@ -199,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2133_타일 채우기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3085_사탕 게임" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,38 +205,17 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/다이나믹" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/브루트포스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/다이나믹/2133_타일 채우기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/브루트포스/3085_사탕 게임.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="공간대여" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-03-31" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-03-31/공간대여.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\practice\real_project\input.txt" />
       <method v="2" />
     </configuration>
     <configuration name="주식투자" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -411,19 +387,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.3085_사탕 게임" />
       <item itemvalue="Python.13398_연속합2" />
       <item itemvalue="Python.17404_RGB거리 2" />
       <item itemvalue="Python.1912_연속합" />
-      <item itemvalue="Python.2133_타일 채우기" />
       <item itemvalue="Python.1" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.17404_RGB거리 2" />
+        <item itemvalue="Python.3085_사탕 게임" />
         <item itemvalue="Python.1" />
+        <item itemvalue="Python.17404_RGB거리 2" />
         <item itemvalue="Python.13398_연속합2" />
         <item itemvalue="Python.1912_연속합" />
-        <item itemvalue="Python.2133_타일 채우기" />
       </list>
     </recent_temporary>
   </component>

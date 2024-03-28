@@ -1,13 +1,7 @@
-n = int(input())
+a = ["a","a","a"]
 
-dp = [[0,0,0] for i in range(n)]
-dp[0][1] = 1
-dp[0][2] = 1
-dp[0][0] = 1
+b = ["b","b","b"]
+a[0], b[0] = b[0], a[0]
 
-for i in range(1, n):
-    dp[i][0] = (dp[i-1][0] + dp[i-1][1] + dp[i-1][2]) % 9901
-    dp[i][1] = (dp[i-1][0] + dp[i-1][2]) % 9901
-    dp[i][2] = (dp[i-1][0] + dp[i-1][1]) % 9901
+print(a, b)
 
-print(sum(dp[n-1]))
