@@ -33,3 +33,37 @@ for i in range(n):
 
 print(label-2)
 print(*sorted(ans), sep='\n')
+
+#------------
+
+n = int(input())
+maps = [input() for i in range(n)]
+visited = [[0] * n for _ in range(n)]
+dx, dy = [0, 0, 1, -1], [1, -1, 0, 0]
+
+def dfs(y, x):
+    global tmp
+    visited[y][x] = 1
+    for i in range(4):
+        ny, nx = y + dy[i], x + dx[i]
+        if 0 <= ny < n and 0 <= nx < n:
+            if maps[ny][nx] == '1' and visited[ny][nx] == 0:
+                tmp += 1
+                dfs(ny, nx)
+
+ans = []
+tmp = 1
+for i in range(n):
+    for j in range(n):
+        if maps[i][j] == '1' and visited[i][j] == 0:
+            dfs(i, j)
+            ans.append(tmp)
+            tmp = 1
+
+ans.sort()
+print(len(ans))
+for an in ans:
+    print(an)
+
+
+
