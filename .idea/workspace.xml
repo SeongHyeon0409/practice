@@ -8,8 +8,6 @@
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/그래프/2667_단지번호붙이기.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/그래프/2667_단지번호붙이기.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +82,8 @@
     "Python.15664_N과M10.executor": "Run",
     "Python.15665_N과M11.executor": "Run",
     "Python.15666_N과M12.executor": "Run",
+    "Python.16929_Two Dots.executor": "Run",
+    "Python.16947_서울 지하철 2호선.executor": "Run",
     "Python.1707_이분그래프.executor": "Run",
     "Python.17087_숨바꼭질 6.executor": "Run",
     "Python.17103_골드바흐 파티션.executor": "Run",
@@ -133,30 +133,8 @@
       <recent name="C:\practice\real_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7562_나이트의 이동">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13023_ABCDE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.16940_BFS 스페셜 저지">
+    <configuration name="16929_Two Dots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/13023_ABCDE.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16929_Two Dots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1707_이분그래프" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16940_BFS 스페셜 저지" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -191,7 +169,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/1707_이분그래프.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16940_BFS 스페셜 저지.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="16947_서울 지하철 2호선" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16947_서울 지하철 2호선.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,27 +244,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="치유와드" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-05-12" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-05-12/치유와드.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\practice\real_project\input.txt" />
-      <method v="2" />
-    </configuration>
     <configuration name="필터링" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,19 +266,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.16929_Two Dots" />
+      <item itemvalue="Python.16940_BFS 스페셜 저지" />
+      <item itemvalue="Python.16947_서울 지하철 2호선" />
       <item itemvalue="Python.7562_나이트의 이동" />
-      <item itemvalue="Python.13023_ABCDE" />
-      <item itemvalue="Python.1707_이분그래프" />
       <item itemvalue="Python.4963_섬의 개수" />
-      <item itemvalue="Python.1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16940_BFS 스페셜 저지" />
+        <item itemvalue="Python.16947_서울 지하철 2호선" />
+        <item itemvalue="Python.16929_Two Dots" />
         <item itemvalue="Python.7562_나이트의 이동" />
         <item itemvalue="Python.4963_섬의 개수" />
-        <item itemvalue="Python.1707_이분그래프" />
-        <item itemvalue="Python.13023_ABCDE" />
-        <item itemvalue="Python.1" />
       </list>
     </recent_temporary>
   </component>
