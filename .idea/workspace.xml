@@ -83,6 +83,7 @@
     "Python.15665_N과M11.executor": "Run",
     "Python.15666_N과M12.executor": "Run",
     "Python.16929_Two Dots.executor": "Run",
+    "Python.16940_BFS 스페셜 저지.executor": "Run",
     "Python.16947_서울 지하철 2호선.executor": "Run",
     "Python.1707_이분그래프.executor": "Run",
     "Python.17087_숨바꼭질 6.executor": "Run",
@@ -98,6 +99,7 @@
     "Python.20529_가장 가까운 세 사람.executor": "Run",
     "Python.2089_-2진수.executor": "Run",
     "Python.2133_타일 채우기.executor": "Run",
+    "Python.2146_다리만들기.executor": "Run",
     "Python.21736_헌내기는 친구가 필요해.executor": "Run",
     "Python.2529_부등호.executor": "Run",
     "Python.2805. 농작물 수확하기.executor": "Run",
@@ -133,7 +135,7 @@
       <recent name="C:\practice\real_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16940_BFS 스페셜 저지">
+  <component name="RunManager" selected="Python.2146_다리만들기">
     <configuration name="16929_Two Dots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
@@ -200,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4963_섬의 개수" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2146_다리만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -213,7 +215,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/4963_섬의 개수.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/2146_다리만들기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,41 +246,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="필터링" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="practice" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/real_project/2023-04-14" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/real_project/2023-04-14/필터링.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="true" />
-      <option name="INPUT_FILE" value="C:\Users\seonghyeon\practice\real_project\input.txt" />
-      <method v="2" />
-    </configuration>
     <list>
+      <item itemvalue="Python.2146_다리만들기" />
       <item itemvalue="Python.16929_Two Dots" />
       <item itemvalue="Python.16940_BFS 스페셜 저지" />
       <item itemvalue="Python.16947_서울 지하철 2호선" />
       <item itemvalue="Python.7562_나이트의 이동" />
-      <item itemvalue="Python.4963_섬의 개수" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2146_다리만들기" />
         <item itemvalue="Python.16940_BFS 스페셜 저지" />
         <item itemvalue="Python.16947_서울 지하철 2호선" />
         <item itemvalue="Python.16929_Two Dots" />
         <item itemvalue="Python.7562_나이트의 이동" />
-        <item itemvalue="Python.4963_섬의 개수" />
       </list>
     </recent_temporary>
   </component>
