@@ -1,24 +1,24 @@
-#2020.04.30
-#Presented by SeongHyeon0409
-#그래프
 from collections import deque
-
 n, k = map(int, input().split())
-visit = [0] * 100001
-queue = deque()
-queue.append([n,0])
+visited = [0] * 100001
+def bfs():
+    global n, k
+    q = deque()
+    q.append((n, 0))
+    while q:
+        n, d= q.popleft()
 
-while queue:
-    p, d = queue[0][0], queue[0][1]
-    if p == k:
-        break
-    queue.popleft()
-    visit[p] = 1
-    if p > 0 and visit[p - 1] == 0:
-        queue.append([p-1, d+1])
-    if p < 100000 and visit[p + 1] == 0:
-        queue.append([p+1, d+1])
-    if p * 2 <= 100000 and visit[p * 2] == 0:
-        queue.append([p*2, d+1])
+        if n == k:
+            return d
 
-print(queue[0][1])
+        if n - 1 >= 0 and visited[n - 1] == 0:
+            q.append((n - 1, d + 1))
+            visited[n-1] = 1
+        if n + 1 < 100001 and visited[n + 1] == 0:
+            q.append((n + 1, d + 1))
+            visited[n+1] = 1
+        if n * 2 < 100001 and visited[n * 2] == 0:
+            q.append((n * 2, d + 1))
+            visited[n*2] = 1
+
+print(bfs())

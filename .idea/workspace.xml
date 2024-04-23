@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/그래프/1697_숨바꼭질.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/그래프/1697_숨바꼭질.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +61,20 @@
     "Python.10972_다음 순열.executor": "Run",
     "Python.10974_모든 순열.executor": "Run",
     "Python.11656_접미사배열.executor": "Run",
+    "Python.11725_트리의 부모찾기.executor": "Run",
     "Python.1182_부분수열의 합.executor": "Run",
     "Python.11866_요세푸스_문제_0.executor": "Run",
     "Python.1225. [SW 문제해결 기본] 7일차 - 암호생성기.executor": "Run",
+    "Python.1261_알고스팟.executor": "Run",
     "Python.13023_ABCDE.executor": "Run",
     "Python.13398_연속합2.executor": "Run",
+    "Python.1339_단어수학.executor": "Run",
+    "Python.13549_숨바꼭질 3.executor": "Run",
+    "Python.13913_숨바꼭질 4.executor": "Run",
     "Python.14002_가장긴증가하는부분수열4.executor": "Run",
     "Python.1406_에디터.executor": "Run",
+    "Python.14225_부분수열의 합.executor": "Run",
+    "Python.14226_이모티콘.executor": "Run",
     "Python.1476_날짜 계산.executor": "Run",
     "Python.14940_쉬운 최단거리.executor": "Run",
     "Python.15649_N과M.executor": "Run",
@@ -82,9 +91,12 @@
     "Python.15664_N과M10.executor": "Run",
     "Python.15665_N과M11.executor": "Run",
     "Python.15666_N과M12.executor": "Run",
+    "Python.16197_두 동전.executor": "Run",
+    "Python.16198_에너지모으기.executor": "Run",
     "Python.16929_Two Dots.executor": "Run",
     "Python.16940_BFS 스페셜 저지.executor": "Run",
     "Python.16947_서울 지하철 2호선.executor": "Run",
+    "Python.1697_숨바꼭질.executor": "Run",
     "Python.1707_이분그래프.executor": "Run",
     "Python.17087_숨바꼭질 6.executor": "Run",
     "Python.17103_골드바흐 파티션.executor": "Run",
@@ -95,13 +107,16 @@
     "Python.1874_스택수열.executor": "Run",
     "Python.1912_연속합.executor": "Run",
     "Python.1935_후위표기식2.executor": "Run",
+    "Python.1987_알파벳.executor": "Run",
     "Python.2004_조합0의개수.executor": "Run",
+    "Python.2011_암호코드.executor": "Run",
     "Python.20529_가장 가까운 세 사람.executor": "Run",
     "Python.2089_-2진수.executor": "Run",
     "Python.2133_타일 채우기.executor": "Run",
     "Python.2146_다리만들기.executor": "Run",
     "Python.21736_헌내기는 친구가 필요해.executor": "Run",
     "Python.2529_부등호.executor": "Run",
+    "Python.2580_스도쿠.executor": "Run",
     "Python.2805. 농작물 수확하기.executor": "Run",
     "Python.3085_사탕 게임.executor": "Run",
     "Python.4963_섬의 개수.executor": "Run",
@@ -115,28 +130,28 @@
     "Python.temp.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/seonghyeon/practice/PycharmProjects/boj/수학",
+    "last_opened_file_path": "C:/Users/seonghyeon/practice/PycharmProjects/boj/브루트포스",
     "settings.editor.selected.configurable": "copyright"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\브루트포스" />
+      <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\그래프" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\수학" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\기타" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\자료 구조" />
-      <recent name="C:\Users\seonghyeon\practice\real_project\2023-05-19" />
-      <recent name="C:\practice\real_project\2023-05-26" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\그래프" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\기타" />
       <recent name="C:\Users\seonghyeon\practice\AI" />
       <recent name="C:\Users\seonghyeon\practice\real_project\2023-04-21" />
       <recent name="C:\practice\PycharmProjects\boj\구현" />
-      <recent name="C:\practice\real_project" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2146_다리만들기">
-    <configuration name="16929_Two Dots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2580_스도쿠">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,11 +160,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16929_Two Dots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +173,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16940_BFS 스페셜 저지" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16197_두 동전" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,7 +186,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16940_BFS 스페셜 저지.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16197_두 동전.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16947_서울 지하철 2호선" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16198_에너지모으기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,11 +204,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/브루트포스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16947_서울 지하철 2호선.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/브루트포스/16198_에너지모으기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +217,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2146_다리만들기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1987_알파벳" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +230,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/2146_다리만들기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/1987_알파벳.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7562_나이트의 이동" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2580_스도쿠" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -233,11 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/브루트포스" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/7562_나이트의 이동.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/브루트포스/2580_스도쿠.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -247,19 +262,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.2146_다리만들기" />
-      <item itemvalue="Python.16929_Two Dots" />
-      <item itemvalue="Python.16940_BFS 스페셜 저지" />
-      <item itemvalue="Python.16947_서울 지하철 2호선" />
-      <item itemvalue="Python.7562_나이트의 이동" />
+      <item itemvalue="Python.2580_스도쿠" />
+      <item itemvalue="Python.1" />
+      <item itemvalue="Python.16197_두 동전" />
+      <item itemvalue="Python.16198_에너지모으기" />
+      <item itemvalue="Python.1987_알파벳" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2146_다리만들기" />
-        <item itemvalue="Python.16940_BFS 스페셜 저지" />
-        <item itemvalue="Python.16947_서울 지하철 2호선" />
-        <item itemvalue="Python.16929_Two Dots" />
-        <item itemvalue="Python.7562_나이트의 이동" />
+        <item itemvalue="Python.2580_스도쿠" />
+        <item itemvalue="Python.1987_알파벳" />
+        <item itemvalue="Python.16198_에너지모으기" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.16197_두 동전" />
       </list>
     </recent_temporary>
   </component>
