@@ -1,3 +1,2 @@
-a = [1,2,3,4]
-del a[1]
-print(a)
+n = int(input())
+print("long " * (n//4) + "int")
