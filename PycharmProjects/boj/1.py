@@ -1,2 +1,4 @@
-n = int(input())
-print("long " * (n//4) + "int")
+print(bin(3))
+print(bin(1))
+print(bin(1 >> 1))
+print((2>> 1))

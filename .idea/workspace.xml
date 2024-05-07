@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/그리디/1931_회의실배정.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/그리디/1931_회의실배정.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +56,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1.executor": "Run",
+    "Python.1080_행렬.executor": "Run",
     "Python.10819_차이를 최대로.executor": "Run",
     "Python.10971_외판원순회2.executor": "Run",
     "Python.10972_다음 순열.executor": "Run",
@@ -64,7 +67,9 @@
     "Python.11866_요세푸스_문제_0.executor": "Run",
     "Python.1225. [SW 문제해결 기본] 7일차 - 암호생성기.executor": "Run",
     "Python.1261_알고스팟.executor": "Run",
+    "Python.1285_동전 뒤집기.executor": "Run",
     "Python.12886_돌 그룹.executor": "Run",
+    "Python.12904_A와 B.executor": "Run",
     "Python.13023_ABCDE.executor": "Run",
     "Python.13398_연속합2.executor": "Run",
     "Python.1339_단어수학.executor": "Run",
@@ -105,22 +110,28 @@
     "Python.17299_오등큰수.executor": "Run",
     "Python.17404_RGB거리 2.executor": "Run",
     "Python.17413_단어뒤집기2.executor": "Run",
+    "Python.1744_수 묶기.executor": "Run",
     "Python.1759_암호만들기.executor": "Run",
+    "Python.1783_병든 나이트.executor": "Run",
     "Python.1874_스택수열.executor": "Run",
     "Python.1912_연속합.executor": "Run",
+    "Python.1931_회의실배정.executor": "Run",
     "Python.1935_후위표기식2.executor": "Run",
+    "Python.1967_트리의 지름.executor": "Run",
     "Python.1987_알파벳.executor": "Run",
     "Python.2004_조합0의개수.executor": "Run",
     "Python.2011_암호코드.executor": "Run",
     "Python.20529_가장 가까운 세 사람.executor": "Run",
     "Python.2089_-2진수.executor": "Run",
     "Python.2133_타일 채우기.executor": "Run",
+    "Python.2138_전구와 스위치.executor": "Run",
     "Python.2146_다리만들기.executor": "Run",
     "Python.21736_헌내기는 친구가 필요해.executor": "Run",
     "Python.2206_벽 부수고 이동하기.executor": "Run",
     "Python.2529_부등호.executor": "Run",
     "Python.2580_스도쿠.executor": "Run",
     "Python.2805. 농작물 수확하기.executor": "Run",
+    "Python.2875_대회 or 인턴.executor": "Run",
     "Python.3085_사탕 게임.executor": "Run",
     "Python.4963_섬의 개수.executor": "Run",
     "Python.6588_골드바흐의 추측.executor": "Run",
@@ -154,7 +165,7 @@
       <recent name="C:\practice\PycharmProjects\boj\구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.16954_움직이는 미로 탈출">
+  <component name="RunManager" selected="Python.1967_트리의 지름(dfs)">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
@@ -177,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12886_돌 그룹" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1080_행렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -186,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그리디" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/12886_돌 그룹.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그리디/1080_행렬.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14502_연구소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1285_동전 뒤집기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,11 +219,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그리디" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/14502_연구소.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그리디/1285_동전 뒤집기.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16954_움직이는 미로 탈출" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1967_트리의 지름(dfs)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,7 +245,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/16954_움직이는 미로 탈출.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\seonghyeon\practice\PycharmProjects\boj\그래프\1967_트리의 지름(dfs).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +254,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2206_벽 부수고 이동하기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2138_전구와 스위치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -252,11 +263,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그리디" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그래프/2206_벽 부수고 이동하기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그리디/2138_전구와 스위치.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,19 +277,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.16954_움직이는 미로 탈출" />
-      <item itemvalue="Python.2206_벽 부수고 이동하기" />
       <item itemvalue="Python.1" />
-      <item itemvalue="Python.12886_돌 그룹" />
-      <item itemvalue="Python.14502_연구소" />
+      <item itemvalue="Python.1285_동전 뒤집기" />
+      <item itemvalue="Python.2138_전구와 스위치" />
+      <item itemvalue="Python.1080_행렬" />
+      <item itemvalue="Python.1967_트리의 지름(dfs)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.16954_움직이는 미로 탈출" />
-        <item itemvalue="Python.2206_벽 부수고 이동하기" />
+        <item itemvalue="Python.1967_트리의 지름(dfs)" />
         <item itemvalue="Python.1" />
-        <item itemvalue="Python.12886_돌 그룹" />
-        <item itemvalue="Python.14502_연구소" />
+        <item itemvalue="Python.1285_동전 뒤집기" />
+        <item itemvalue="Python.2138_전구와 스위치" />
+        <item itemvalue="Python.1080_행렬" />
       </list>
     </recent_temporary>
   </component>
