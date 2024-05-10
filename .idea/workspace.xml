@@ -9,7 +9,6 @@
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/그리디/1931_회의실배정.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/그리디/1931_회의실배정.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,12 @@
     "Python.11725_트리의 부모찾기.executor": "Run",
     "Python.1182_부분수열의 합.executor": "Run",
     "Python.11866_요세푸스_문제_0.executor": "Run",
+    "Python.1213. [SW 문제해결 기본] 3일차 - String.executor": "Run",
+    "Python.1215. [SW 문제해결 기본] 3일차 - 회문1.executor": "Run",
+    "Python.1216. [SW 문제해결 기본] 3일차 - 회문2.executor": "Run",
+    "Python.1217. [SW 문제해결 기본] 4일차 - 거듭 제곱.executor": "Run",
+    "Python.1220. [SW 문제해결 기본] 5일차 - Magnetic.executor": "Run",
+    "Python.1221. [SW 문제해결 기본] 5일차 - GNS.executor": "Run",
     "Python.1225. [SW 문제해결 기본] 7일차 - 암호생성기.executor": "Run",
     "Python.1261_알고스팟.executor": "Run",
     "Python.1285_동전 뒤집기.executor": "Run",
@@ -112,6 +117,7 @@
     "Python.17413_단어뒤집기2.executor": "Run",
     "Python.1744_수 묶기.executor": "Run",
     "Python.1759_암호만들기.executor": "Run",
+    "Python.17615_볼 모으기.executor": "Run",
     "Python.1783_병든 나이트.executor": "Run",
     "Python.1874_스택수열.executor": "Run",
     "Python.1912_연속합.executor": "Run",
@@ -165,8 +171,8 @@
       <recent name="C:\practice\PycharmProjects\boj\구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1967_트리의 지름(dfs)">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1221. [SW 문제해결 기본] 5일차 - GNS">
+    <configuration name="1215. [SW 문제해결 기본] 3일차 - 회문1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/sewa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1215. [SW 문제해결 기본] 3일차 - 회문1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1080_행렬" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1216. [SW 문제해결 기본] 3일차 - 회문2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -197,11 +203,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그리디" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/sewa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그리디/1080_행렬.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1216. [SW 문제해결 기본] 3일차 - 회문2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1285_동전 뒤집기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1217. [SW 문제해결 기본] 4일차 - 거듭 제곱" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,11 +225,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그리디" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/sewa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그리디/1285_동전 뒤집기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1217. [SW 문제해결 기본] 4일차 - 거듭 제곱.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,7 +238,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1967_트리의 지름(dfs)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1220. [SW 문제해결 기본] 5일차 - Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -241,11 +247,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그래프" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/sewa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\seonghyeon\practice\PycharmProjects\boj\그래프\1967_트리의 지름(dfs).py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1220. [SW 문제해결 기본] 5일차 - Magnetic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -254,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2138_전구와 스위치" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1221. [SW 문제해결 기본] 5일차 - GNS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -263,11 +269,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/boj/그리디" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PycharmProjects/sewa" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/그리디/2138_전구와 스위치.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1221. [SW 문제해결 기본] 5일차 - GNS.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,19 +283,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1" />
-      <item itemvalue="Python.1285_동전 뒤집기" />
-      <item itemvalue="Python.2138_전구와 스위치" />
-      <item itemvalue="Python.1080_행렬" />
-      <item itemvalue="Python.1967_트리의 지름(dfs)" />
+      <item itemvalue="Python.1215. [SW 문제해결 기본] 3일차 - 회문1" />
+      <item itemvalue="Python.1216. [SW 문제해결 기본] 3일차 - 회문2" />
+      <item itemvalue="Python.1217. [SW 문제해결 기본] 4일차 - 거듭 제곱" />
+      <item itemvalue="Python.1220. [SW 문제해결 기본] 5일차 - Magnetic" />
+      <item itemvalue="Python.1221. [SW 문제해결 기본] 5일차 - GNS" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1967_트리의 지름(dfs)" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.1285_동전 뒤집기" />
-        <item itemvalue="Python.2138_전구와 스위치" />
-        <item itemvalue="Python.1080_행렬" />
+        <item itemvalue="Python.1221. [SW 문제해결 기본] 5일차 - GNS" />
+        <item itemvalue="Python.1220. [SW 문제해결 기본] 5일차 - Magnetic" />
+        <item itemvalue="Python.1217. [SW 문제해결 기본] 4일차 - 거듭 제곱" />
+        <item itemvalue="Python.1216. [SW 문제해결 기본] 3일차 - 회문2" />
+        <item itemvalue="Python.1215. [SW 문제해결 기본] 3일차 - 회문1" />
       </list>
     </recent_temporary>
   </component>
