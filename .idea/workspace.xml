@@ -8,7 +8,7 @@
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PycharmProjects/boj/1.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/boj/1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PycharmProjects/sewa/pratice.py" beforeDir="false" afterPath="$PROJECT_DIR$/PycharmProjects/sewa/pratice.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,116 +52,125 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.1.executor": "Run",
-    "Python.1080_행렬.executor": "Run",
-    "Python.10819_차이를 최대로.executor": "Run",
-    "Python.10971_외판원순회2.executor": "Run",
-    "Python.10972_다음 순열.executor": "Run",
-    "Python.10974_모든 순열.executor": "Run",
-    "Python.11656_접미사배열.executor": "Run",
-    "Python.11725_트리의 부모찾기.executor": "Run",
-    "Python.1182_부분수열의 합.executor": "Run",
-    "Python.11866_요세푸스_문제_0.executor": "Run",
-    "Python.1213. [SW 문제해결 기본] 3일차 - String.executor": "Run",
-    "Python.1215. [SW 문제해결 기본] 3일차 - 회문1.executor": "Run",
-    "Python.1216. [SW 문제해결 기본] 3일차 - 회문2.executor": "Run",
-    "Python.1217. [SW 문제해결 기본] 4일차 - 거듭 제곱.executor": "Run",
-    "Python.1220. [SW 문제해결 기본] 5일차 - Magnetic.executor": "Run",
-    "Python.1221. [SW 문제해결 기본] 5일차 - GNS.executor": "Run",
-    "Python.1225. [SW 문제해결 기본] 7일차 - 암호생성기.executor": "Run",
-    "Python.1261_알고스팟.executor": "Run",
-    "Python.1285_동전 뒤집기.executor": "Run",
-    "Python.12886_돌 그룹.executor": "Run",
-    "Python.12904_A와 B.executor": "Run",
-    "Python.13023_ABCDE.executor": "Run",
-    "Python.13398_연속합2.executor": "Run",
-    "Python.1339_단어수학.executor": "Run",
-    "Python.13549_숨바꼭질 3.executor": "Run",
-    "Python.13913_숨바꼭질 4.executor": "Run",
-    "Python.14002_가장긴증가하는부분수열4.executor": "Run",
-    "Python.1406_에디터.executor": "Run",
-    "Python.14225_부분수열의 합.executor": "Run",
-    "Python.14226_이모티콘.executor": "Run",
-    "Python.14502_연구소.executor": "Run",
-    "Python.1476_날짜 계산.executor": "Run",
-    "Python.14940_쉬운 최단거리.executor": "Run",
-    "Python.15649_N과M.executor": "Run",
-    "Python.15650_N과M2.executor": "Run",
-    "Python.15651_N과M3.executor": "Run",
-    "Python.15652_N과M4.executor": "Run",
-    "Python.15654_N과M10.executor": "Run",
-    "Python.15654_N과M5.executor": "Run",
-    "Python.15654_N과M6.executor": "Run",
-    "Python.15654_N과M7.executor": "Run",
-    "Python.15654_N과M8.executor": "Run",
-    "Python.15654_N과M9.executor": "Run",
-    "Python.15657_N과M8.executor": "Run",
-    "Python.15664_N과M10.executor": "Run",
-    "Python.15665_N과M11.executor": "Run",
-    "Python.15666_N과M12.executor": "Run",
-    "Python.16197_두 동전.executor": "Run",
-    "Python.16198_에너지모으기.executor": "Run",
-    "Python.16929_Two Dots.executor": "Run",
-    "Python.16940_BFS 스페셜 저지.executor": "Run",
-    "Python.16947_서울 지하철 2호선.executor": "Run",
-    "Python.16948_데스 나이트.executor": "Run",
-    "Python.16954_움직이는 미로 탈출.executor": "Run",
-    "Python.1697_숨바꼭질.executor": "Run",
-    "Python.1707_이분그래프.executor": "Run",
-    "Python.17087_숨바꼭질 6.executor": "Run",
-    "Python.17103_골드바흐 파티션.executor": "Run",
-    "Python.17299_오등큰수.executor": "Run",
-    "Python.17404_RGB거리 2.executor": "Run",
-    "Python.17413_단어뒤집기2.executor": "Run",
-    "Python.1744_수 묶기.executor": "Run",
-    "Python.1759_암호만들기.executor": "Run",
-    "Python.17615_볼 모으기.executor": "Run",
-    "Python.1783_병든 나이트.executor": "Run",
-    "Python.1874_스택수열.executor": "Run",
-    "Python.1912_연속합.executor": "Run",
-    "Python.1931_회의실배정.executor": "Run",
-    "Python.1935_후위표기식2.executor": "Run",
-    "Python.1967_트리의 지름.executor": "Run",
-    "Python.1987_알파벳.executor": "Run",
-    "Python.2004_조합0의개수.executor": "Run",
-    "Python.2011_암호코드.executor": "Run",
-    "Python.20529_가장 가까운 세 사람.executor": "Run",
-    "Python.2089_-2진수.executor": "Run",
-    "Python.2133_타일 채우기.executor": "Run",
-    "Python.2138_전구와 스위치.executor": "Run",
-    "Python.2146_다리만들기.executor": "Run",
-    "Python.21736_헌내기는 친구가 필요해.executor": "Run",
-    "Python.2206_벽 부수고 이동하기.executor": "Run",
-    "Python.2529_부등호.executor": "Run",
-    "Python.2580_스도쿠.executor": "Run",
-    "Python.2805. 농작물 수확하기.executor": "Run",
-    "Python.2875_대회 or 인턴.executor": "Run",
-    "Python.3085_사탕 게임.executor": "Run",
-    "Python.4963_섬의 개수.executor": "Run",
-    "Python.6588_골드바흐의 추측.executor": "Run",
-    "Python.6603_로또.executor": "Run",
-    "Python.7562_나이트의 이동.executor": "Run",
-    "Python.9019_DSLR.executor": "Debug",
-    "Python.9613_GCD합.executor": "Run",
-    "Python.n-queen.executor": "Run",
-    "Python.practice.executor": "Run",
-    "Python.pratice.executor": "Run",
-    "Python.temp.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/seonghyeon/practice/PycharmProjects/boj/그래프",
-    "settings.editor.selected.configurable": "copyright"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1080_행렬.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10819_차이를 최대로.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10971_외판원순회2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10972_다음 순열.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10974_모든 순열.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11656_접미사배열.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11725_트리의 부모찾기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1182_부분수열의 합.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11866_요세푸스_문제_0.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1210. [SW 문제해결 기본] 2일차 - Ladder1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1211. [SW 문제해결 기본] 2일차 - Ladder2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1213. [SW 문제해결 기본] 3일차 - String.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1215. [SW 문제해결 기본] 3일차 - 회문1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1216. [SW 문제해결 기본] 3일차 - 회문2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1217. [SW 문제해결 기본] 4일차 - 거듭 제곱.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1218. [SW 문제해결 기본] 4일차 - 괄호 짝짓기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1219. [SW 문제해결 기본] 4일차 - 길찾기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1220. [SW 문제해결 기본] 5일차 - Magnetic.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1221. [SW 문제해결 기본] 5일차 - GNS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1223. [SW 문제해결 기본] 6일차 - 계산기2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1224. [SW 문제해결 기본] 6일차 - 계산기3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1225. [SW 문제해결 기본] 7일차 - 암호생성기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1226. [SW 문제해결 기본] 7일차 - 미로1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1227. [SW 문제해결 기본] 7일차 - 미로2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1230. [SW 문제해결 기본] 8일차 - 암호문3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1261_알고스팟.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1285_동전 뒤집기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12886_돌 그룹.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12904_A와 B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13023_ABCDE.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13398_연속합2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1339_단어수학.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13549_숨바꼭질 3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13913_숨바꼭질 4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14002_가장긴증가하는부분수열4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1406_에디터.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14225_부분수열의 합.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14226_이모티콘.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14502_연구소.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1476_날짜 계산.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14940_쉬운 최단거리.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15649_N과M.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15650_N과M2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15651_N과M3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15652_N과M4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15654_N과M10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15654_N과M5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15654_N과M6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15654_N과M7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15654_N과M8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15654_N과M9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15657_N과M8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15664_N과M10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15665_N과M11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15666_N과M12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16197_두 동전.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16198_에너지모으기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16929_Two Dots.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16940_BFS 스페셜 저지.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16947_서울 지하철 2호선.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16948_데스 나이트.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16954_움직이는 미로 탈출.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1697_숨바꼭질.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1707_이분그래프.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17087_숨바꼭질 6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17103_골드바흐 파티션.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17299_오등큰수.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17404_RGB거리 2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17413_단어뒤집기2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1744_수 묶기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1759_암호만들기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17615_볼 모으기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1783_병든 나이트.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1874_스택수열.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1912_연속합.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1931_회의실배정.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1935_후위표기식2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1967_트리의 지름.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1987_알파벳.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2004_조합0의개수.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2011_암호코드.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20529_가장 가까운 세 사람.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2089_-2진수.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2133_타일 채우기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2138_전구와 스위치.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2146_다리만들기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21736_헌내기는 친구가 필요해.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2206_벽 부수고 이동하기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2529_부등호.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2580_스도쿠.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2805. 농작물 수확하기.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2875_대회 or 인턴.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3085_사탕 게임.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4963_섬의 개수.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6588_골드바흐의 추측.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6603_로또.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7562_나이트의 이동.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9019_DSLR.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.9613_GCD합.executor&quot;: &quot;Run&quot;,
+    &quot;Python.n-queen.executor&quot;: &quot;Run&quot;,
+    &quot;Python.practice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pratice.executor&quot;: &quot;Run&quot;,
+    &quot;Python.temp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/seonghyeon/practice/PycharmProjects/sewa&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;copyright&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\seonghyeon\practice\PycharmProjects\sewa" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\그래프" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\브루트포스" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\수학" />
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\기타" />
-      <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\자료 구조" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\seonghyeon\practice\PycharmProjects\boj\그래프" />
@@ -171,8 +180,8 @@
       <recent name="C:\practice\PycharmProjects\boj\구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1221. [SW 문제해결 기본] 5일차 - GNS">
-    <configuration name="1215. [SW 문제해결 기본] 3일차 - 회문1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1230. [SW 문제해결 기본] 8일차 - 암호문3">
+    <configuration name="1224. [SW 문제해결 기본] 6일차 - 계산기3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +194,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1215. [SW 문제해결 기본] 3일차 - 회문1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1224. [SW 문제해결 기본] 6일차 - 계산기3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1216. [SW 문제해결 기본] 3일차 - 회문2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1226. [SW 문제해결 기본] 7일차 - 미로1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,7 +216,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1216. [SW 문제해결 기본] 3일차 - 회문2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1226. [SW 문제해결 기본] 7일차 - 미로1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -216,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1217. [SW 문제해결 기본] 4일차 - 거듭 제곱" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1227. [SW 문제해결 기본] 7일차 - 미로2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -229,7 +238,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1217. [SW 문제해결 기본] 4일차 - 거듭 제곱.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1227. [SW 문제해결 기본] 7일차 - 미로2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,7 +247,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1220. [SW 문제해결 기본] 5일차 - Magnetic" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1230. [SW 문제해결 기본] 8일차 - 암호문3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,7 +260,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1220. [SW 문제해결 기본] 5일차 - Magnetic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1230. [SW 문제해결 기본] 8일차 - 암호문3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,7 +269,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1221. [SW 문제해결 기본] 5일차 - GNS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pratice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,7 +282,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/1221. [SW 문제해결 기본] 5일차 - GNS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/sewa/pratice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,19 +292,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1215. [SW 문제해결 기본] 3일차 - 회문1" />
-      <item itemvalue="Python.1216. [SW 문제해결 기본] 3일차 - 회문2" />
-      <item itemvalue="Python.1217. [SW 문제해결 기본] 4일차 - 거듭 제곱" />
-      <item itemvalue="Python.1220. [SW 문제해결 기본] 5일차 - Magnetic" />
-      <item itemvalue="Python.1221. [SW 문제해결 기본] 5일차 - GNS" />
+      <item itemvalue="Python.1224. [SW 문제해결 기본] 6일차 - 계산기3" />
+      <item itemvalue="Python.1226. [SW 문제해결 기본] 7일차 - 미로1" />
+      <item itemvalue="Python.1227. [SW 문제해결 기본] 7일차 - 미로2" />
+      <item itemvalue="Python.1230. [SW 문제해결 기본] 8일차 - 암호문3" />
+      <item itemvalue="Python.pratice" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1221. [SW 문제해결 기본] 5일차 - GNS" />
-        <item itemvalue="Python.1220. [SW 문제해결 기본] 5일차 - Magnetic" />
-        <item itemvalue="Python.1217. [SW 문제해결 기본] 4일차 - 거듭 제곱" />
-        <item itemvalue="Python.1216. [SW 문제해결 기본] 3일차 - 회문2" />
-        <item itemvalue="Python.1215. [SW 문제해결 기본] 3일차 - 회문1" />
+        <item itemvalue="Python.1230. [SW 문제해결 기본] 8일차 - 암호문3" />
+        <item itemvalue="Python.pratice" />
+        <item itemvalue="Python.1227. [SW 문제해결 기본] 7일차 - 미로2" />
+        <item itemvalue="Python.1226. [SW 문제해결 기본] 7일차 - 미로1" />
+        <item itemvalue="Python.1224. [SW 문제해결 기본] 6일차 - 계산기3" />
       </list>
     </recent_temporary>
   </component>

@@ -1,6 +1,8 @@
-a = "0001000200010002"
-a = a.replace('0001', '0f', 1)
+a = [0, 1, 2, 3, 4]
+a.insert(1, 6)
+
 print(a)
 
-b = [1, 2, 3]
-print(*b)
+del a[0]
+
+print(a)
