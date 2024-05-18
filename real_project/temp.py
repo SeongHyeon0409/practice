@@ -1,5 +1,3 @@
-b = [ 1, 2, 3]
-
-def a(num, b):
-    return num + b
-print(list(map(lambda x: a(x, 2),b)))
+a= [(3,0), (4,1), (2,4), (3,3) ,(2,1), (2,2)]
+a.sort(key = lambda x : (x[0], x[1]))
+print(a)

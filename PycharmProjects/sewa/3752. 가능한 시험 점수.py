@@ -1,7 +1,6 @@
 t = int(input())
 
 def dfs(s, d):
-    # 마지막이어야 리턴;;해야함;;ㅇㅈ?
     global n
 
     for i in range(d, n):
@@ -15,7 +14,15 @@ def dfs(s, d):
 for tc in range(1, t+1):
     n = int(input())
     sc = list(map(int, input().split()))
-    v = [0] * (sum(sc) + 1)
-    dfs(0, 0)
+    v = [1] + [0] * sum(sc)
+    ans = [0]
+
+    for s in sc:
+        for i in range(len(ans)):
+            if v[ans[i] + s] == 0:
+                v[ans[i] + s] = 1
+                ans.append(ans[i] + s)
+
+
     print(f'#{tc} {sum(v)}')
 
