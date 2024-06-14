@@ -7,7 +7,6 @@
     <list default="true" id="e5f5befd-5654-45c6-8b71-f0a19fe2ee1a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,6 +93,7 @@
     "Python.1285_동전 뒤집기.executor": "Run",
     "Python.12886_돌 그룹.executor": "Run",
     "Python.12904_A와 B.executor": "Run",
+    "Python.12933_오리.executor": "Run",
     "Python.13023_ABCDE.executor": "Run",
     "Python.13398_연속합2.executor": "Run",
     "Python.1339_단어수학.executor": "Run",
@@ -150,6 +150,7 @@
     "Python.2.executor": "Run",
     "Python.2004_조합0의개수.executor": "Run",
     "Python.2011_암호코드.executor": "Run",
+    "Python.20291_파일 정리.executor": "Run",
     "Python.20529_가장 가까운 세 사람.executor": "Run",
     "Python.20546_기적의 매매법.executor": "Run",
     "Python.2089_-2진수.executor": "Run",
@@ -159,6 +160,7 @@
     "Python.2146_다리만들기.executor": "Run",
     "Python.21736_헌내기는 친구가 필요해.executor": "Run",
     "Python.2206_벽 부수고 이동하기.executor": "Run",
+    "Python.22858_원상복구.executor": "Run",
     "Python.2442_별찍기-5.executor": "Run",
     "Python.2443_별찍기-6.executor": "Run",
     "Python.2444_별찍기-7.executor": "Run",
@@ -210,7 +212,7 @@
       <recent name="C:\practice\PycharmProjects\boj\구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1244_스위치 켜고 끄기">
+  <component name="RunManager" selected="Python.22858_원상복구">
     <configuration name="10994_별찍기-19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
@@ -255,7 +257,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1913_달팽이" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12933_오리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,7 +270,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/1913_달팽이.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/12933_오리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,7 +279,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2523_별찍기-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20291_파일 정리" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,7 +292,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/2523_별찍기-13.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/20291_파일 정리.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,7 +301,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4396_지뢰찾기" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22858_원상복구" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,7 +314,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/4396_지뢰찾기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/22858_원상복구.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -322,19 +324,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.12933_오리" />
+      <item itemvalue="Python.20291_파일 정리" />
+      <item itemvalue="Python.22858_원상복구" />
       <item itemvalue="Python.10994_별찍기-19" />
       <item itemvalue="Python.1244_스위치 켜고 끄기" />
-      <item itemvalue="Python.1913_달팽이" />
-      <item itemvalue="Python.2523_별찍기-13" />
-      <item itemvalue="Python.4396_지뢰찾기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.22858_원상복구" />
+        <item itemvalue="Python.20291_파일 정리" />
+        <item itemvalue="Python.12933_오리" />
         <item itemvalue="Python.1244_스위치 켜고 끄기" />
         <item itemvalue="Python.10994_별찍기-19" />
-        <item itemvalue="Python.4396_지뢰찾기" />
-        <item itemvalue="Python.1913_달팽이" />
-        <item itemvalue="Python.2523_별찍기-13" />
       </list>
     </recent_temporary>
   </component>
