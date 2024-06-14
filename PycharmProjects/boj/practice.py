@@ -1,1 +1,1 @@
-print(input()[int(input())])
+print(ord('A'))
