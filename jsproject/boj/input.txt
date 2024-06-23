@@ -1,2 +1,9 @@
-z o
-zoac
+8
+New window
+New file
+Copy
+Undo
+Format
+Font
+Cut
+Paste
