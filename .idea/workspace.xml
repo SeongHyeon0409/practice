@@ -8,6 +8,8 @@
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/Django-AD-Project" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../DjangoProject/django_rest-master/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsproject/boj/1283.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsproject/boj/1283.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsproject/boj/20436.js" beforeDir="false" afterPath="$PROJECT_DIR$/jsproject/boj/20436.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jsproject/boj/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/jsproject/boj/input.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -124,6 +126,7 @@
     "Python.15666_N과M12.executor": "Run",
     "Python.16197_두 동전.executor": "Run",
     "Python.16198_에너지모으기.executor": "Run",
+    "Python.16719_ZOAC.executor": "Run",
     "Python.16929_Two Dots.executor": "Run",
     "Python.16940_BFS 스페셜 저지.executor": "Run",
     "Python.16947_서울 지하철 2호선.executor": "Run",
@@ -169,7 +172,7 @@
     "Python.2445_별찍기-8.executor": "Run",
     "Python.2446_별찍기-9.executor": "Run",
     "Python.2503_숫자야구.executor": "Run",
-    "Python.2523_별찍기-13.executor": "Run",
+    "Python.2523_별찍기-13.executor": "Debug",
     "Python.2529_부등호.executor": "Run",
     "Python.2578_빙고.executor": "Run",
     "Python.2580_스도쿠.executor": "Run",
@@ -183,7 +186,7 @@
     "Python.4963_섬의 개수.executor": "Run",
     "Python.5212_지구 온난화.executor": "Run",
     "Python.5643. [Professional] 키 순서.executor": "Run",
-    "Python.5766_할아버지는 유명해.executor": "Run",
+    "Python.5766_할아버지는 유명해.executor": "Debug",
     "Python.6588_골드바흐의 추측.executor": "Run",
     "Python.6603_로또.executor": "Run",
     "Python.7465. 창용 마을 무리의 개수.executor": "Run",
@@ -217,7 +220,7 @@
       <recent name="C:\practice\PycharmProjects\boj\구현" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5766_할아버지는 유명해">
+  <component name="RunManager" selected="Python.16719_ZOAC">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
@@ -240,7 +243,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1969_DNA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16719_ZOAC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -253,7 +256,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/1969_DNA.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/16719_ZOAC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -262,7 +265,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2503_숫자야구" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2523_별찍기-13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -275,7 +278,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/2503_숫자야구.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PycharmProjects/boj/구현/2523_별찍기-13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -329,19 +332,19 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.16719_ZOAC" />
+      <item itemvalue="Python.2523_별찍기-13" />
       <item itemvalue="Python.5766_할아버지는 유명해" />
       <item itemvalue="Python.1" />
       <item itemvalue="Python.5212_지구 온난화" />
-      <item itemvalue="Python.1969_DNA" />
-      <item itemvalue="Python.2503_숫자야구" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16719_ZOAC" />
+        <item itemvalue="Python.2523_별찍기-13" />
         <item itemvalue="Python.5766_할아버지는 유명해" />
         <item itemvalue="Python.5212_지구 온난화" />
         <item itemvalue="Python.1" />
-        <item itemvalue="Python.2503_숫자야구" />
-        <item itemvalue="Python.1969_DNA" />
       </list>
     </recent_temporary>
   </component>
@@ -376,6 +379,18 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PycharmProjects/boj/구현/5766_할아버지는 유명해.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/PycharmProjects/boj/구현/2523_별찍기-13.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
           <properties notifyOnTerminate="true" exception="BaseException">

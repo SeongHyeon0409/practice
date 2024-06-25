@@ -33,17 +33,6 @@ for (i = 1; i <= n; i++){
     continue;
   }
 
-  // for (let j = 0; j < input[i].length; j++){
-  //   inputs = input[i][j];
-  //   if (alpha[inputs.toUpperCase()] === 2 && flag === 0){
-  //     alpha[input[i][j].toUpperCase()] = 1;
-  //     flag = 1;
-  //     temp += `[${input[i][j]}]`;
-  //   }
-  //   else{
-  //     temp += input[i][j];
-  //   }
-  // }
 
   temp = '';
   flag = 0;

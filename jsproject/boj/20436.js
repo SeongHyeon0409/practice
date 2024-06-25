@@ -12,7 +12,6 @@ right = ['y','u','i','o','p','h','j','k','l','b','n','m'];
 let [sl, sr] = input[0].trim().split(" ");
 let zoac = input[1].trim().split("");
 
-
 let time = 0;
 
 function lenkey(a, b) {
@@ -25,10 +24,6 @@ function lenkey(a, b) {
 
 let xl, yl, xr, yr;
 
-// for (let i = 0; i < key.length; i++){
-//     if (key[i].includes(sl)) [xl, yl] = [i, key[i].indexOf(sl)];
-//     if (key[i].includes(sr)) [xr, yr] = [i, key[i].indexOf(sr)];
-// }
 
 zoac.forEach(z => {
 
