@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/out/production/boj" />
+    <output-test url="file://$MODULE_DIR$/out/test/boj" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/거짓말" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/웜홀" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/피보나치 수 6" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/미세먼지 안녕!" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/별 찍기 - 11" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/최소비용 구하기" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/어린 왕자" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/히스토그램" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/NBA 농구" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/나무 자르기" />
+      <excludeFolder url="file://$MODULE_DIR$/Baekjoon Online Judge/배부른 마라토너" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
